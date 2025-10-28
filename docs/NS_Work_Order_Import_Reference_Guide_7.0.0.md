@@ -1,5 +1,8 @@
 ---
+layout: default
 title: Work Order Import Reference Guide
+nav_order: 5
+toc: true
 ---
 
 [← Back to Home](index.html)

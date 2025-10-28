@@ -1,9 +1,19 @@
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: just-the-docs/just-the-docs
 
 title: Nautical Systems Documentation
 description: Documentation for Nautical Systems 7.0
 
-# Navigation structure
-readme_index:
-  with_frontmatter: true
+# Enable search
+search_enabled: true
+
+# Dark mode
+color_scheme: dark
+
+# Heading anchor links appear on hover
+heading_anchors: true
+
+# Aux links
+aux_links:
+  "GitHub":
+    - "https://github.com/pamurphy-absconsulting/nautical_systems"
 

@@ -1,5 +1,8 @@
 ---
+layout: default
 title: VM-Mooring User Guide
+nav_order: 4
+toc: true
 ---
 
 [← Back to Home](index.html)

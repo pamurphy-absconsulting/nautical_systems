@@ -1,5 +1,8 @@
 ---
+layout: default
 title: Release Notes 7.0
+nav_order: 2
+toc: true
 ---
 
 [← Back to Home](index.html)
