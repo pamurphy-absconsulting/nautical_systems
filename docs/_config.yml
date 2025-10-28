@@ -1,9 +1,0 @@
-title: Nautical Systems Documentation
-description: Documentation for Nautical Systems 7.0
-theme: jekyll-theme-slate
-
-markdown: kramdown
-relative_links:
-  enabled: true
-  collections: true
-
