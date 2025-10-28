@@ -468,4 +468,4 @@ Should you need technical support, log into the [Customer Self-Service Portal](h
 2. **Community** – Find solutions, ask questions, and collaborate with other users.
 3. **Product Support** – Submit and check the status of your tickets.
 
-![Support Portal](media/NS_Work/image4.png)
+![Support Portal](../media/NS_Work/image4.png)

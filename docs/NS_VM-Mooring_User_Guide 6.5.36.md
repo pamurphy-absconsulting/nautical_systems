@@ -111,7 +111,7 @@ Standard Job Scheduling and Maintenance
 
 The **Mooring Workflow** provides a comprehensive visual representation of the end-to-end process for managing mooring operations, from configuration and planning to execution and maintenance, ensuring streamlined workflows and operational efficiency.
 
-![Mooring workflow diagram](media/NS_VM/image3.png)
+![Mooring workflow diagram](../media/NS_VM/image3.png)
 
 # NS Side Configuration Setup
 
@@ -129,9 +129,9 @@ This section details the configuration options available for mooring operations 
 
 These preferences are located under the **Workflow** tab in the *System Preference* screen within the *Maintenance & Purchasing* module.
 
-![System Preference workflow settings](media/NS_VM/image4.png)
+![System Preference workflow settings](../media/NS_VM/image4.png)
 
-![System Preference mooring configuration](media/NS_VM/image5.png)
+![System Preference mooring configuration](../media/NS_VM/image5.png)
 
 ## Ship Configuration
 
@@ -143,7 +143,7 @@ In the *Ship* screen--- **Technical**--- **Diagrams** section, users can attach 
 
 There is currently no workflow associated with this feature. However, users can view and refer to the mooring plan as needed.
 
-![Ship Configuration screen](media/NS_VM/image7.png)
+![Ship Configuration screen](../media/NS_VM/image7.png)
 
 ## General Data Configuration
 
@@ -163,7 +163,7 @@ Navigation Path: **General Data**--- **Master Data**--- **Index Term**--- **Main
 
     - **None** (default for all existing Index Terms)
 
-> ![Index Term configuration screen](media/NS_VM/image8.png)
+> ![Index Term configuration screen](../media/NS_VM/image8.png)
 
 **Note:**
 
@@ -185,7 +185,7 @@ Multiple **Index Terms** can be created for each identity type.
 
 The **Description** field for this term can contain up to **75** characters.
 
-> ![Mooring Line Type Index Term](media/NS_VM/image9.png)
+> ![Mooring Line Type Index Term](../media/NS_VM/image9.png)
 
   - The **Item Function Index Term**, is available under **Index Term**--- **Inventory Related**, and includes the following identities:
 
@@ -199,15 +199,15 @@ The **Description** field for this term can contain up to **75** characters.
 
 The **Description** field allows up to **75** characters, and **Import/Export** functionality is available to support **Index Terms**.
 
-> ![Item Function Index Term screen](media/NS_VM/image10.png)
+> ![Item Function Index Term screen](../media/NS_VM/image10.png)
 
   - **Index Term Security** is configured under **General Purposes**.
 
-> ![Index Term Security configuration](media/NS_VM/image11.png)
+> ![Index Term Security configuration](../media/NS_VM/image11.png)
 
   - The **Country - New Screen** lookup values can be found in the **Jurisdiction** field in the *Country - New* screen.
 
-  ![Country jurisdiction field](media/NS_VM/image12.png)
+  ![Country jurisdiction field](../media/NS_VM/image12.png)
 
 ## UOM Configuration
 
@@ -223,13 +223,13 @@ Uses can configure default **Units of Measurement (UOM)** at either the system l
 
 If the user attempts to select a **UOM** outside the specified types, an error message will be displayed.
 
-![Screenshot](media/NS_VM/image13.png)
+![Screenshot](../media/NS_VM/image13.png)
 
 ## User Notification
 
 An internal notification, **Get Notification on SI Discard**, is available under the **Notifications** tab in the **Maintenance** section of the *User* screen to alert subscribed users when an **SI** is discarded. The notification can be accessed via **System Administration**--- **Users**--- **User Screen**--- **Notifications**--- **Maintenance Notification**.
 
-![Screenshot](media/NS_VM/image14.png)
+![Screenshot](../media/NS_VM/image14.png)
 
 # Machinery Configuration
 
@@ -249,7 +249,7 @@ Mooring Winch Identification
 
   - Users can select the **Mooring Winch** option from the **Identify Equipment** as field in the **Maintenance & Purchasing**--- **Equipment**--- **Voyage Manager** tab.
 
-  ![Screenshot](media/NS_VM/image15.png)
+  ![Screenshot](../media/NS_VM/image15.png)
 
 Location Details
 
@@ -267,11 +267,11 @@ Under the **Mooring Winch Unit**, users can create one or more **Mooring Locatio
 
   - **Mooring Lines** will be created as **Serialized Items**. Once the **Serialized Items** checkbox is selected, an additional tab will be enabled to save **Mooring Line**-related information.
 
-  ![Screenshot](media/NS_VM/image16.png)
+  ![Screenshot](../media/NS_VM/image16.png)
 
-  ![Screenshot](media/NS_VM/image17.png)
+  ![Screenshot](../media/NS_VM/image17.png)
 
-  ![Screenshot](media/NS_VM/image18.png)
+  ![Screenshot](../media/NS_VM/image18.png)
 
 > **Note:**
 >
@@ -301,7 +301,7 @@ Validation Rules
 
   - **Mooring Lead**: Values include **Port**, **Starboard**, and **Either**.
 
-> ![Screenshot](media/NS_VM/image19.png)
+> ![Screenshot](../media/NS_VM/image19.png)
 
 # Equipment Export
 
@@ -377,7 +377,7 @@ Startup Figures
 
 - If authorization is not granted, this section will remain disabled.
 
-  ![Screenshot](media/NS_VM/image20.png)
+  ![Screenshot](../media/NS_VM/image20.png)
 
 Serialized Items Tab
 
@@ -460,7 +460,7 @@ The user is allowed to reset Half-Life values to **0**. However, If this done, E
 >
 > Preference will always be given to **Ship Configuration** settings before applying **System Configuration** settings.
 >
-> ![Screenshot](media/NS_VM/image21.png)
+> ![Screenshot](../media/NS_VM/image21.png)
 
 ### Part Import/Export (XLSX)
 
@@ -615,7 +615,7 @@ Key Dates
 
     - **Replacement Date**: Date when the SI was discarded after usage.
 
-![Screenshot](media/NS_VM/image22.png)
+![Screenshot](../media/NS_VM/image22.png)
 
 Field Definitions
 
@@ -655,7 +655,7 @@ Validation Rules
 
   - **Total Time in Use** and **Total Number of Uses** will be display-only and updated automatically from port stay entries.
 
-> ![Screenshot](media/NS_VM/image23.png)
+> ![Screenshot](../media/NS_VM/image23.png)
 
 Authorization
 
@@ -663,7 +663,7 @@ Authorization
 
   - If enabled, the **Startup Figures** section in the **Mooring Line** tab will be editable; otherwise, it will remain disabled.
 
-> ![Screenshot](image24.png)
+> ![Screenshot](../media/NS_VM/image24.png)
 
 ### Serialized Item Import/Export
 
@@ -713,7 +713,7 @@ The *Serialized Item Certificate Search* screen includes a **Certificate Creatio
 
 - The issue where only the first certificate was being linked to multiple SIs during PO delivery has been resolved.
 
-  ![Screenshot](image25.png)
+  ![Screenshot](../media/NS_VM/image25.png)
 
 ## City/Country Configuration
 
@@ -729,7 +729,7 @@ The *City* screen features a read-only **Region** field that displays the region
 
 To prevent duplication, new city records are validated against the **State/Province** field in addition to the existing **Country** and **City Name** validations. This ensures that multiple cities with the same name can exist in different states or provinces, commonly seen in the U.S. and other countries.
 
-![Screenshot](image26.png)
+![Screenshot](../media/NS_VM/image26.png)
 
 ### City/Country Import/Export
 
@@ -751,7 +751,7 @@ This section outlines the **City/Country/Import/Export** process and includes th
 
 - The ***COUNTRY_JURISDICTION*** and ***CITY_JURISDICTION*** columns will display the **Jurisdiction Lookup** descriptions.
 
-  ![Screenshot](image27.png)
+  ![Screenshot](../media/NS_VM/image27.png)
 
 - The **Berth** second sheet includes the following columns:
 
@@ -767,7 +767,7 @@ This section outlines the **City/Country/Import/Export** process and includes th
 
   - **IDCODE**
 
-  ![Screenshot](image28.png)
+  ![Screenshot](../media/NS_VM/image28.png)
 
 - The **Mooring** third sheet includes the following columns:
 
@@ -797,7 +797,7 @@ This section outlines the **City/Country/Import/Export** process and includes th
 
   - **IDCODE**
 
-  ![Screenshot](image29.png)
+  ![Screenshot](../media/NS_VM/image29.png)
 
 ## Berth Configuration
 
@@ -831,7 +831,7 @@ The **Optimoor Plan** **Index** serves as a master list of all **Optimoor** plan
 
 This structure allows **Optimoor** documents to be filtered by **Vessel Type**, **Berth**, and **Side Alongside**, ensuring that onboard users can only access relevant **Optimoor** plans when viewing or planning a **Port Call**.
 
-![Screenshot](image30.png)
+![Screenshot](../media/NS_VM/image30.png)
 
 The grid also features **Add** and **Remove** buttons, allowing users to manage berth entries by adding or deleting rows. Multiple **Ext. Mooring Plans** can be linked to **City**, **Berth**, **AlongSide**, **Vessel Type**, and other related fields. Each port city can have multiple berths, with some cities supporting **100-350** berths. Replication is managed based on **Vessel Type**. The **Berth List** grid has two new columns:
 
@@ -839,7 +839,7 @@ The grid also features **Add** and **Remove** buttons, allowing users to manage 
 
 - **Ext. Mooring Plan Status**: Displays Yes in the **City**--- **Berth**--- **Ext. Mooring Plan** column if the berth has at least one external plan attached.
 
-![Screenshot](image31.png)
+![Screenshot](../media/NS_VM/image31.png)
 
 ## Standard Job Configuration
 
@@ -849,7 +849,7 @@ The **Standard Job Configuration** supports maintenance and inspection workflows
 
 In **Standard Job Configuration**, a standard job is created by defining the job type details, associating it with the relevant equipment or component, and specifying the required parameters and scheduling criteria.
 
-![Screenshot](image32.png)
+![Screenshot](../media/NS_VM/image32.png)
 
 ### Edit Screen
 
@@ -861,21 +861,21 @@ Calendar-Based Jobs
 
 - These jobs will display the **Last Done Date** for all linked serialized items.
 
-  ![Screenshot](image33.png)
+  ![Screenshot](../media/NS_VM/image33.png)
 
   - These jobs are mostly inspection-related, and the **Inspection** checkbox in the **Admin Info** tab must be checked.
 
-  ![Screenshot](image34.png)
+  ![Screenshot](../media/NS_VM/image34.png)
 
 Counter-Based Jobs
 
   - The **Serialized Items** tab will display all linked serialized items based on SI Reference.
 
-    ![Screenshot](image35.png)
+    ![Screenshot](../media/NS_VM/image35.png)
 
 - These jobs will display the **ETE Date** and **EOL Date** for all linked serialized items.
 
-  ![Screenshot](image36.png)
+  ![Screenshot](../media/NS_VM/image36.png)
 
 ### Standard Job Excel Import/Export
 
@@ -921,19 +921,19 @@ This section details the **PO Delivery Process**, which supports the tracking an
 
 - Attach Column: Allows row-level attachments.
 
-![Screenshot](image37.png)
+![Screenshot](../media/NS_VM/image37.png)
 
 Certificate Management
 
 Users can manage certificates by either creating a new certificate and linking it to multiple serialized items or associating an existing certificate with a serialized item by selecting from a list of available certificates. The same functionality extends to the Part Level, where the *Part* screen includes serialized references for better traceability.
 
-![Screenshot](image38.png)
+![Screenshot](../media/NS_VM/image38.png)
 
 Shipping Manifest
 
 During the **Shipping Manifest** process, the same columns and certificate management options are available when taking delivery, ensuring consistency in handling mooring-related purchases.
 
-![Screenshot](image39.png)
+![Screenshot](../media/NS_VM/image39.png)
 
 Data Handling in Serialized Items
 
@@ -973,7 +973,7 @@ This section outlines the job scheduling process for **Mooring Ropes** and **Oth
 
 - For serialized items marked as **Mooring Line** or **Mooring Pennant** and created via **PO Delivery**, **Shipping Manifest** **Delivery**, and *Part* screen, the system sets the last done date as the SI creation date.
 
-  ![Screenshot](image40.png)
+  ![Screenshot](../media/NS_VM/image40.png)
 
 ## **Counter Based Job Scheduling**
 
@@ -991,7 +991,7 @@ This section outlines the job scheduling process for **Mooring Ropes** and **Oth
 
 Once a job is completed, it will be rescheduled.
 
-![Screenshot](image41.png)
+![Screenshot](../media/NS_VM/image41.png)
 
 ### Scheduling Based On Counter
 
@@ -1033,9 +1033,9 @@ This section details the scheduling calculations and workflow for ETE and EOL jo
 
 - If the **Remaining Hours Of Use** is set to **0**, the **EOL** job will be scheduled when the total running hours reach **1000**.
 
-  ![Screenshot](image42.png)
+  ![Screenshot](../media/NS_VM/image42.png)
 
-  ![Screenshot](image43.png)
+  ![Screenshot](../media/NS_VM/image43.png)
 
 - **Example 2: Scheduling based on Number of Uses**
 
@@ -1083,13 +1083,13 @@ Policy-based scheduling is governed by system preferences and requires specific 
 
 - **Pennant Scheduling Preference**: Sets the policy-based scheduling rules for **Mooring Pennants**.
 
-  ![Screenshot](image44.png)
+  ![Screenshot](../media/NS_VM/image44.png)
 
 ### Requirements:
 
 - **Serialized Item Reference**: The **Part** must have **Mooring Line** or **Pennant SI Reference**.
 
-  ![Screenshot](image45.png)
+  ![Screenshot](../media/NS_VM/image45.png)
 
 - **Serialized Items**: Must exist in the system for the **Part** to allow scheduling.
 
@@ -1101,9 +1101,9 @@ Policy-based scheduling is governed by system preferences and requires specific 
 
     - Configure the SI in VM, override the policy level as needed, and add the installation date.
 
-      ![Screenshot](image46.png)
+      ![Screenshot](../media/NS_VM/image46.png)
 
-      ![Screenshot](image47.png)
+      ![Screenshot](../media/NS_VM/image47.png)
 
   - **Example SI**:
 
@@ -1121,9 +1121,9 @@ Policy-based scheduling is governed by system preferences and requires specific 
 
   - EOL Job: Scheduled as Install Date + 12 months = 01/06/2025.
 
-  ![Screenshot](image48.png)
+  ![Screenshot](../media/NS_VM/image48.png)
 
-  ![Screenshot](image49.png)
+  ![Screenshot](../media/NS_VM/image49.png)
 
 **\**
 
@@ -1133,7 +1133,7 @@ Policy-based scheduling is governed by system preferences and requires specific 
 
     - The system will calculate, and update schedules based on changes, ensuring accurate alignment with the policy.
 
-      ![Screenshot](image50.png)
+      ![Screenshot](../media/NS_VM/image50.png)
 
   - **Schedule Nodes**:
 
@@ -1167,7 +1167,7 @@ The System Preference for Counter vs Policy Job scheduling determines how ETE an
 
 - The EOL date is based on the policy period if the policy-based EOL date occurs earlier than the counter reading.
 
-  ![Screenshot](image51.png)
+  ![Screenshot](../media/NS_VM/image51.png)
 
 #### Maintenance Plan
 
@@ -1181,7 +1181,7 @@ The System Preference for Counter vs Policy Job scheduling determines how ETE an
 
   - **EOL Jobs**: The title is generated as EOL Serial Number + SJ Job Title
 
-  ![Screenshot](image52.png)
+  ![Screenshot](../media/NS_VM/image52.png)
 
 The **Maintenance Plan** will also display **WOs** for **Counter-based SI Standard Jobs** with the same title format:
 
@@ -1189,7 +1189,7 @@ The **Maintenance Plan** will also display **WOs** for **Counter-based SI Standa
 
   - **EOL WOs**: EOL Serial Number + SJ Job Title
 
-  ![Screenshot](image53.png)
+  ![Screenshot](../media/NS_VM/image53.png)
 
   - These jobs are mostly inspection-related, and the **Inspection** checkbox in the **Admin Info** tab must be checked.
 
@@ -1199,11 +1199,11 @@ When the **EOL Work Order** is completed, the system will automatically mark the
 
 To subscribe for discarded notifications, refer to the **User Notification** section.
 
-![Screenshot](image54.png)
+![Screenshot](../media/NS_VM/image54.png)
 
-![Screenshot](image55.png)
+![Screenshot](../media/NS_VM/image55.png)
 
-![Screenshot](image56.png)
+![Screenshot](../media/NS_VM/image56.png)
 
 ## Search
 
@@ -1213,7 +1213,7 @@ The **Search** feature provides users with improved filtering and search capabil
 
 In the **Equipment** search, enables users to identify equipment more precisely using the **Identify Equipment** **As** filter under the **General** section.
 
-![Screenshot](image57.png)
+![Screenshot](../media/NS_VM/image57.png)
 
 ### Part Search
 
@@ -1225,7 +1225,7 @@ The **Part Search** enhances usability by allowing users to find parts in the **
 
   - **Original Diameter**
 
-  ![Screenshot](image58.png)
+  ![Screenshot](../media/NS_VM/image58.png)
 
 ### Standard Job Search
 
@@ -1247,19 +1247,19 @@ The **Serialized Items** grid includes the following columns:
 
 The **Last Done**, **Scheduled**, and **Status** columns will remain empty in the main grid for serialized SJs.
 
-![Screenshot](image59.png)
+![Screenshot](../media/NS_VM/image59.png)
 
 ### Serialized Item Search
 
 The **Serialized Item Search** enhances search and filtering capabilities for **Mooring Lines** and **Pennants.**
 
-![Screenshot](image60.png)
+![Screenshot](../media/NS_VM/image60.png)
 
 ### City Country Search
 
 The **City and Country Search** enhances jurisdiction-based searches with multi-select functionality, allowing users to select multiple jurisdictions. Navigation path: **General Data**--- **Master Data**--- **General**--- **Cities and Countries.**
 
-![Screenshot](image61.png)
+![Screenshot](../media/NS_VM/image61.png)
 
 ### **SI Certificate Search**
 
@@ -1283,7 +1283,7 @@ Search filters:
 
   - **Expiry Date**
 
-  ![Screenshot](image62.png)
+  ![Screenshot](../media/NS_VM/image62.png)
 
 **Expiry Status** column with color-related indicators based on the expiry date:
 
@@ -1309,7 +1309,7 @@ Listed filters:
 
 The results will display all available fields of the **SI Certificate**, except the attachment.
 
-![Screenshot](image63.png)
+![Screenshot](../media/NS_VM/image63.png)
 
 The *Serialized Item Certificate Search* screen includes a **Certificate Creation** option in the **Process** menu for easier certificate management. The **Serialized Item Import/Export** functionality supports **SI Certificate Import/Export** including attachments.
 
@@ -1335,7 +1335,7 @@ The *Serialized Item Certificate Search* screen includes a **Certificate Creatio
 
   - The issue where only the first certificate was being linked to multiple SIs during PO delivery has been resolved.
 
-  ![Screenshot](image25.png)
+  ![Screenshot](../media/NS_VM/image25.png)
 
 ## Gadgets
 
@@ -1351,7 +1351,7 @@ The **Gadgets** feature supports serialized jobs, enhancing visibility and track
 
     - **EOL/ETE + Serial No. + SJ Name** for Mooring Jobs.
 
-  ![Screenshot](image64.png)
+  ![Screenshot](../media/NS_VM/image64.png)
 
 ## Reports
 
@@ -1363,7 +1363,7 @@ The **Reports** feature supports and provides comprehensive information on **Moo
 
 - Navigation Path: **Part Screen**--- **Reports**--- **Part Detail**
 
-  ![Screenshot](image65.png)
+  ![Screenshot](../media/NS_VM/image65.png)
 
 ### Serialized Item (SI) Form
 
@@ -1371,9 +1371,9 @@ The **Reports** feature supports and provides comprehensive information on **Moo
 
 - Navigation Path: **SI Screen**--- **Reports**--- **Serialized Item Form**
 
-  ![Screenshot](image66.png)
+  ![Screenshot](../media/NS_VM/image66.png)
 
-  ![Screenshot](image67.png)
+  ![Screenshot](../media/NS_VM/image67.png)
 
 ### Standard Job Reports
 
@@ -1385,9 +1385,9 @@ The **Standard Job** **Reports** feature provides comprehensive information on *
 
 - Navigation Path: **Module level**--- **Reports**--- **Standard Job Description**
 
-  ![Screenshot](image68.png)
+  ![Screenshot](../media/NS_VM/image68.png)
 
-  ![Screenshot](image69.png)
+  ![Screenshot](../media/NS_VM/image69.png)
 
 ### Standard Job Query Listing
 
@@ -1395,7 +1395,7 @@ The **Standard Job** **Reports** feature provides comprehensive information on *
 
 - Navigation Path: **Standard Job Search Screen**--- **Reports**--- **Standard Job Query Listing.**
 
-  ![Screenshot](image70.png)
+  ![Screenshot](../media/NS_VM/image70.png)
 
 ### Counter-Based Standard Jobs Listing
 
@@ -1403,7 +1403,7 @@ The **Standard Job** **Reports** feature provides comprehensive information on *
 
 - Navigation Path: **Standard Job Search Screen**--- **Reports**--- **Counter-Based Standard Jobs Listing.**
 
-  ![Screenshot](image71.png)
+  ![Screenshot](../media/NS_VM/image71.png)
 
 ### Standard Job Status By Type
 
@@ -1457,11 +1457,11 @@ Steps
 
 1.  Navigate to **Voyage Manager**--- **Administration**--- **Mooring Configuration**--- **Mooring Lines**.
 
-    ![Screenshot](image72.png)
+    ![Screenshot](../media/NS_VM/image72.png)
 
 1.  Choose the appropriate serial number of mooring lines to configure for the mooring locations listed for that ship.
 
-    ![Screenshot](image73.png)
+    ![Screenshot](../media/NS_VM/image73.png)
 
 ### Prerequisites
 
@@ -1538,17 +1538,17 @@ Steps
 
 1.  Navigate to **Voyage Manager**--- **Administration**--- **Mooring Configuration**--- **Mooring Pennants**.
 
-    ![Screenshot](image74.png)
+    ![Screenshot](../media/NS_VM/image74.png)
 
 2.  Select the vessel for which mooring pennants need to be configured.
 
 3.  Choose the appropriate pennant length.
 
-    ![Screenshot](image75.png)
+    ![Screenshot](../media/NS_VM/image75.png)
 
 4.  Based on the selected length, configure the available pennants for the mooring locations displayed.
 
-    ![Screenshot](image76.png)
+    ![Screenshot](../media/NS_VM/image76.png)
 
 **Notes:**
 
@@ -1647,19 +1647,19 @@ Steps
 
 1.  Click the **Add Mooring Log** button.
 
-    ![Screenshot](image77.png)
+    ![Screenshot](../media/NS_VM/image77.png)
 
 2.  Enter the **Mooring Log** details for a specific log date and time in the form.
 
-    ![Screenshot](image78.png)
+    ![Screenshot](../media/NS_VM/image78.png)
 
 3.  Click **Save Mooring Log**, to save the entry and display it in the grid with the recorded log date and time.
 
-    ![Screenshot](image79.png)
+    ![Screenshot](../media/NS_VM/image79.png)
 
 4.  To delete a saved **Mooring Log**, select the desired row and click the **Delete Mooring Log** button.
 
-    ![Screenshot](image80.png)
+    ![Screenshot](../media/NS_VM/image80.png)
 
 ### Prerequisites
 
@@ -1751,7 +1751,7 @@ The **Mooring Started** and **Unmooring Completed** activities must be recorded 
 
 This *Mooring Lines -- Log View* screen allows users to enter hourly readings for all lines in the **Mooring Plan** within a single interface. Additionally, users can record wind and weather conditions corresponding to each hourly entry. Any **Tension** values exceeding the WLL of the **Mooring Line** or **Pennant** will be highlighted based on the predefined color coding system.
 
-![Screenshot](image81.png)
+![Screenshot](../media/NS_VM/image81.png)
 
 ### Add/Update Operation
 
@@ -1868,19 +1868,19 @@ Steps
 
 1.  Navigate to **Mooring** section of the **Port Stay Event** document.
 
-    ![Screenshot](image82.png)
+    ![Screenshot](../media/NS_VM/image82.png)
 
 2.  Select **Plan Parameters**.
 
-    ![Screenshot](image83.png)
+    ![Screenshot](../media/NS_VM/image83.png)
 
 3.  Search for an existing plan or create a new plan if none exist.
 
-    ![Screenshot](image84.png)
+    ![Screenshot](../media/NS_VM/image84.png)
 
 4.  Choose **Mooring Locations** accordingly and click **Save**.
 
-    ![Screenshot](image85.png)
+    ![Screenshot](../media/NS_VM/image85.png)
 
 ### Prerequisites
 
@@ -1920,7 +1920,7 @@ Creating a New Mooring Plan
 
   - Users can select or remove mooring locations using the checkboxes. Once finalized, clicking **Save Mooring Plan** saves both the **Port Stay Event** and the **Mooring Plan** details.
 
-    ![Screenshot](image86.png)
+    ![Screenshot](../media/NS_VM/image86.png)
 
   - If the **Create/Update Default Mooring Plan** option is set to **Yes**, two plans will be created:
 
@@ -1928,11 +1928,11 @@ Creating a New Mooring Plan
 
     - One saved as the default plan, which can be used in future port stays for the same **Port**, **Berth**, and **Side Alongside**.
 
-      ![Screenshot](image87.png)
+      ![Screenshot](../media/NS_VM/image87.png)
 
   - If the **Create/Update Default Mooring Plan** option is set to **No**, only a single plan will be created and linked to the current **Port Stay Event**.
 
-    ![Screenshot](image88.png)
+    ![Screenshot](../media/NS_VM/image88.png)
 
 Updating an Existing Mooring Plan
 
@@ -1942,7 +1942,7 @@ Updating an Existing Mooring Plan
 
     - Adding or removing mooring locations.
 
-      ![Screenshot](image89.png)
+      ![Screenshot](../media/NS_VM/image89.png)
 
   - If **Create/Update Default Mooring Plan** is set to **Yes**:
 
@@ -1950,11 +1950,11 @@ Updating an Existing Mooring Plan
 
     - If no default plan exists, a new default plan will be created, and the session plan will be updated.
 
-      ![Screenshot](image90.png)
+      ![Screenshot](../media/NS_VM/image90.png)
 
 - If **Create/Update Default Mooring Plan** is set to **No**: Only the session plan (current port stay plan) will be updated.
 
-  ![Screenshot](image91.png)
+  ![Screenshot](../media/NS_VM/image91.png)
 
 Handling Multiple Mooring Plans
 
@@ -1962,7 +1962,7 @@ Handling Multiple Mooring Plans
 
   - If multiple mooring plans exist, a dropdown list of **Mooring Plans** will be displayed, allowing users to select, update, and save an existing plan.
 
-  ![Screenshot](image92.png)
+  ![Screenshot](../media/NS_VM/image92.png)
 
 ### Handling Discarded Lines in Mooring Plans
 
@@ -2038,7 +2038,7 @@ This section outlines how users can access and view external mooring plans withi
 
   - External **Berth Mooring Plans** can be uploaded from the NS application at the berth level.
 
-    ![Screenshot](image93.png)
+    ![Screenshot](../media/NS_VM/image93.png)
 
   - Users can view these plans in *Voyage Manager* under the **Mooring Plans Group** in the **Mooring** section of the **Event** document.
 
@@ -2048,17 +2048,17 @@ This section outlines how users can access and view external mooring plans withi
 
   - The **View Berth Mooring Plans** button is disabled if no external plans are available for the vessel type and port.
 
-    ![Screenshot](image94.png)
+    ![Screenshot](../media/NS_VM/image94.png)
 
 Hide Berth Mooring Plans
 
   - After viewing an external plan, users can click Hide Berth Mooring Plans to minimize the grid for a cleaner interface.
 
-    ![Screenshot](image95.png)
+    ![Screenshot](../media/NS_VM/image95.png)
 
   - Uploaded **PDF** plans can be viewed by clicking on the attachment in a **PDF Viewer**, while other document types can be downloaded via a hyperlink.
 
-    ![Screenshot](image96.png)
+    ![Screenshot](../media/NS_VM/image96.png)
 
 # Running Hour and Usage entries for Mooring Lines and Pennants
 
@@ -2084,7 +2084,7 @@ Upon completing a **Port Stay Event**, the total hours between the **First Line 
 
   - The total number of uses and total time in use can be checked in the **Mooring Line** tab of the **Serialized Items**.
 
-     ![Screenshot](image97.png)
+     ![Screenshot](../media/NS_VM/image97.png)
 
 SI_RUN_HOUR Entries
 
