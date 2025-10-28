@@ -1,21 +1,9 @@
-title: Nautical Systems Knowledge Hub
-description: Documentation for Nautical Systems
-theme: jekyll-theme-cayman
+title: Nautical Systems Documentation
+description: Documentation for Nautical Systems 7.0
+theme: jekyll-theme-slate
 
-# Build settings
 markdown: kramdown
 relative_links:
   enabled: true
   collections: true
-
-# Include these files in the build
-include:
-  - "_*.md"
-  
-# Exclude these files from the build
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
 

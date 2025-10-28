@@ -168,15 +168,15 @@ Steps
 
 2.  Change the current directory in command line to: *\<NSInstallationPath\>\\Production\\MySQL\\x64\\bin (MySQL Installation)*.
 
-![Command prompt screenshot](../media/NS_Azure/image4.png)
+![Command prompt screenshot](media/NS_Azure/image4.png)
 
 3.  Connect to the **AzureSQL Server** using command and enter the password on the prompt: *mysql.exe -u \<username\> -h \<server\> -p -P \<port\>*.
 
-![MySQL connection command](../media/NS_Azure/image5.png)
+![MySQL connection command](media/NS_Azure/image5.png)
 
 4.  If connection is successful, a *MySQL* welcome message will display.
 
-![MySQL welcome message](../media/NS_Azure/image6.png)
+![MySQL welcome message](media/NS_Azure/image6.png)
 
 Create and Switch to the Database
 
@@ -188,15 +188,15 @@ Steps
 
 3.  Switch to the new database using the: *use* command. **Example**: use \[DBNAME\].
 
-![Database switch command](../media/NS_Azure/image7.png)
+![Database switch command](media/NS_Azure/image7.png)
 
 4.  Navigate to the *SQL* scripts folder: ***\<NSInstallationPath\>\\Production\\Enterprise\\db\\MySQL_DB_Script***.
 
 5.  Run the three *SQL* files in order as per the names of the files using the command: *Command - source \<Filepath\>*
 
-![SQL script files](../media/NS_Azure/image8.png)
+![SQL script files](media/NS_Azure/image8.png)
 
-![SQL script execution](../media/NS_Azure/image9.png)
+![SQL script execution](media/NS_Azure/image9.png)
 
 **Note:**
 
@@ -249,7 +249,7 @@ Encrypted credentials can be generated using *DBCredentialEncrypter.exe*, locate
 
 >**Note:** The following provides an example of generating encrypted credentials and the file locations where changes must be applied.
 
-![DBCredentialEncrypter tool](../media/NS_Azure/image10.png)
+![DBCredentialEncrypter tool](media/NS_Azure/image10.png)
 
 
 | **File Path** | **Parameter to Update** |
@@ -266,7 +266,7 @@ Encrypted credentials can be generated using *DBCredentialEncrypter.exe*, locate
 
 Update the *dbp* credential files in the paths listed below with *dbp* files containing the current **AzureFlex Server** user credentials. A *dbp* file for a specific location can be generated using **Enterprise**--- ***dbpGenerator.exe**.*
 
-![DBP Generator tool](../media/NS_Azure/image11.png)
+![DBP Generator tool](media/NS_Azure/image11.png)
 
 | **File Path** | **File to Update** |
 |---------------|-------------------|
@@ -348,7 +348,7 @@ Should you need technical support, log into the [Customer Self-Service Portal](h
 
 - **Product Support** -- Submit and check the status of your tickets.
 
-![Customer Self-Service Portal](../media/NS_Azure/image12.png)
+![Customer Self-Service Portal](media/NS_Azure/image12.png)
 
 # Revision History
 

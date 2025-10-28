@@ -117,7 +117,7 @@ The following updates have been made to the *Document Manager* module. Access th
 The *DMS Search* screen has been enhanced with a new **Content Search** option, available under **Advance Search**. This feature includes multiple usability improvements designed to address common user pain points and provide a more efficient search experience.
 
 
-![Screenshot](../media/NS_Release/image3.png)
+![Screenshot](media/NS_Release/image3.png)
 
 ### DMS - Content Search Improvements
 
@@ -131,7 +131,7 @@ The **DMS Content Search** has been enhanced with advanced capabilities to impro
 
 - Ability to search within non-textual documents, supporting formats such as **HTML**, **XML**, **CSV**, **TXT**, **DOC**, **DOCX**, **XLS**, **XLSX**, **PPT**, **PPTX**, **ODT**, **ODS**, **ODP**, **PDF**, **RTF**, and **MBOX**.
 
-  ![Screenshot](../media/NS_Release/image4.png)
+  ![Screenshot](media/NS_Release/image4.png)
 
 ## Maintenance and Purchasing Manager
 
@@ -178,7 +178,7 @@ The Nautical Systems (NS) has been enhanced to include a **Work Order Deferral I
 
 Indexing the deferral workflow helps identify why the deferral request has been made. The index term is available in work order search, allowing users to easily locate work orders that have one or more deferral cycles associated with the selected reason. This improves traceability and supports more effective reporting.
 
-![Screenshot](../media/NS_Release/image5.png)
+![Screenshot](media/NS_Release/image5.png)
 
 ### Improvements to Work Order Deferral Plan
 
@@ -190,7 +190,7 @@ The Nautical Systems (NS) has been enhanced to support the retirement and hiding
 
 - **Retire WO Deferral Approval Plans**
 
-  ![Screenshot](../media/NS_Release/image6.jpeg)
+  ![Screenshot](media/NS_Release/image6.jpeg)
 
 **Plan Effectiveness**:
 
@@ -200,9 +200,9 @@ The Nautical Systems (NS) has been enhanced to support the retirement and hiding
 
 For reference, refer to ticket number--- **ABS-030600**
 
-![Screenshot](../media/NS_Release/image7.png)
+![Screenshot](media/NS_Release/image7.png)
 
-![Screenshot](../media/NS_Release/image8.png)
+![Screenshot](media/NS_Release/image8.png)
 
 ### Standard Job and Work Order Display Logic in Maintenance Time Plan
 
@@ -216,15 +216,15 @@ When this system preference is set to **Yes**:
 
 For reference, refer to ticket number--- **ABS-026030**, **ABS-024173**, **ABS-017106**, **ABS-004152**, **ABS-025324**
 
-![](../media/NS_Release/image9.png)
+![](media/NS_Release/image9.png)
 
-![Screenshot](../media/NS_Release/image10.png)
+![Screenshot](media/NS_Release/image10.png)
 
 ### Progress Bar Introduction to Indicate Ongoing WO Cancellation Process
 
 When cancelling a work order from the *Work Order Search* screen, the process could take time due to multiple background processes. A progress bar has now been introduced to provide real-time visual feedback, indicating that the cancellation process is ongoing.
 
-![Screenshot](../media/NS_Release/image11.png)
+![Screenshot](media/NS_Release/image11.png)
 
 ### Correct Display of On Order Quantity in Work Order/Explorer
 
@@ -466,9 +466,9 @@ The Nautical Systems application has been enhanced to support **Punchout integra
 
 **Lower Maintenance**: Enables direct procurement of **Punchout** items and allows frequently used items to be easily added to Nautical Systems.
 
-![Screenshot](../media/NS_Release/image13.png)
+![Screenshot](media/NS_Release/image13.png)
 
-![Screenshot](../media/NS_Release/image14.png)
+![Screenshot](media/NS_Release/image14.png)
 
 ## Database Creation
 
@@ -656,13 +656,13 @@ To ensure full compliance with **COTS/STIG** standards and to strengthen data se
 
 These improvements reinforce the system's commitment to secure data handling and compliance with industry-standard security protocols.
 
-![Screenshot](../media/NS_Release/image15.png)
+![Screenshot](media/NS_Release/image15.png)
 
 ### Multiple Tabs Support for Voyage Manager
 
 The **Voyage Manager** module for Nautical Systems has been enhanced to support smooth access across multiple windows and tabs within the same browser session. Users can now operate in parallel browser views without needing to re-login, improving workflow efficiency and enhancing the overall user experience.
 
-![Screenshot](../media/NS_Release/image16.png)
+![Screenshot](media/NS_Release/image16.png)
 
 ### Energy Efficiency Section in MRV Screen
 
@@ -678,7 +678,7 @@ An **Energy Efficiency** section has been added to the *MRV* screen. It provides
 
 For reference, refer to ticket number--- **ABS-034784**
 
-![Screenshot](../media/NS_Release/image17.png)
+![Screenshot](media/NS_Release/image17.png)
 
 ### Vessel Schedule Section - Introduce Spinner to Indicate Data Retrieval
 
@@ -700,7 +700,7 @@ For **LNG** voyages, the **Port** value in the report is now accurately derived 
 
 This enhancement ensures consistency between voyage event data and port operation summaries, thereby improving the reliability of **LNG** voyage reporting.
 
-![Screenshot](../media/NS_Release/image18.png)
+![Screenshot](media/NS_Release/image18.png)
 
 ### Changes in VM to Support IMO DCS
 
@@ -714,13 +714,13 @@ Going forward, in the **Bunkers** section of the report at **year-end (EOY):**
 
 - **Time at Sea** and **Observed Distance** have been reviewed to ensure they are displayed correctly in the *Annual Summary* screen.
 
-  ![Screenshot](../media/NS_Release/image19.png)
+  ![Screenshot](media/NS_Release/image19.png)
 
 ### Add Document Type Field to File Attachment Section of Voyage Event Document
 
 Users can now select and save a **Document Type** when uploading files in the **File Attachment** section of a voyage event document. This enhancement improves document classification and retrieval.
 
-![Screenshot](../media/NS_Release/image20.png)
+![Screenshot](media/NS_Release/image20.png)
 
 ## Utilities
 
@@ -844,7 +844,7 @@ This enhancement ensures better data integrity and minimizes disruptions caused 
 
 For reference, refer to ticket number--- **ABS-014765**, **ABS-028732**, **ABS-033323**, **ABS-033793**
 
-![Screenshot](../media/NS_Release/image21.png)
+![Screenshot](media/NS_Release/image21.png)
 
 ### Inventory Data Issues Detection and Correction Tool
 
@@ -864,7 +864,7 @@ NS has been enhanced to include two new fields: **Created Date** and **Retired D
 
 Performance-related updates have been applied to the **Equipment Job History** feature in NS Mobile applications, enabling faster and more efficient access.
 
-![Screenshot](../media/NS_Release/image22.png)
+![Screenshot](media/NS_Release/image22.png)
 
 ### Performance Improvements to Rich Texts Fields
 
@@ -874,7 +874,7 @@ Additionally, for equipment job history, rich text fields will now be available 
 
 These enhancements significantly reduce memory usage during synchronization and minimize application crashes, resulting in improved sync performance and greater stability across mobile platforms.
 
-![Screenshot](../media/NS_Release/image23.png)
+![Screenshot](media/NS_Release/image23.png)
 
 ### Capacitor Version Upgrade to Support Latest SDK Requirements
 
