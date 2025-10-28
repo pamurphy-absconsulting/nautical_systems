@@ -2,14 +2,20 @@
 layout: default
 title: Release Notes 7.0
 nav_order: 2
-toc: true
 ---
 
 [← Back to Home](index.html)
 
 # Nautical Systems Release Notes
+{: .no_toc }
 
 Version 7.0.0 | September 2025
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 # Introduction
 
