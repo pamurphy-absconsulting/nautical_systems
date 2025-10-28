@@ -25,18 +25,6 @@ This documentation site is built and maintained using:
 
 No servers to manage. No databases. No complicated build processes. Just markdown files in a repo.
 
-### Maintaining the Site
-
-To update documentation:
-- Edit any `.md` file in the `/docs` folder
-- Commit and push to GitHub
-- Site updates automatically
-
-To add new pages:
-- Create a new `.md` file in `/docs`
-- Add front matter with `title` and `nav_order`
-- It appears in the navigation automatically
-
 ### Repository
 
 [View this project on GitHub →](https://github.com/pamurphy-absconsulting/nautical_systems)
