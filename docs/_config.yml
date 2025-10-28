@@ -9,3 +9,6 @@ search_enabled: true
 # Enable TOC on right side
 nav_enabled: true
 
+# Dark mode as default
+color_scheme: dark
+
