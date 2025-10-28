@@ -2,6 +2,7 @@
 layout: default
 title: Azure Cloud Installation Guide
 nav_order: 3
+has_toc: true
 ---
 
 [← Back to Home](index.html)
