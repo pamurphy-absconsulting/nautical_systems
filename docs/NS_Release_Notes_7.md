@@ -13,6 +13,8 @@ tags:
   - software
 ---
 
+[← Back to Home](index.md)
+
 **Nautical Systems
 Release Notes**
 

@@ -13,6 +13,8 @@ tags:
   - september-2025
 ---
 
+[← Back to Home](index.md)
+
 # Nautical Systems
 
 ## Work Order XML Import

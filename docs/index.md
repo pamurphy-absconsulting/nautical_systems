@@ -62,14 +62,14 @@ This documentation site uses:
 - **Content format:** Markdown files with images
 - **Deployment:** Automatic on every push
 
-## Example Documentation
+## Documentation
 
-Here are some sample documents published on this site:
+Browse the available documentation:
 
-- [Release Notes 7.0](../NS_Release_Notes_7.md)
-- [VM-Mooring User Guide 6.5.36](../NS_VM-Mooring_User_Guide%206.5.36.md)
-- [Work Order Import Reference Guide 7.0.0](../NS_Work_Order_Import_Reference_Guide_7.0.0.md)
-- [Azure Cloud Installation Guide 7.0.0](../NS_Azure_Cloud_Installation_Guide_7.0.0.md)
+- [Release Notes 7.0](NS_Release_Notes_7.md)
+- [VM-Mooring User Guide 6.5.36](NS_VM-Mooring_User_Guide%206.5.36.md)
+- [Work Order Import Reference Guide 7.0.0](NS_Work_Order_Import_Reference_Guide_7.0.0.md)
+- [Azure Cloud Installation Guide 7.0.0](NS_Azure_Cloud_Installation_Guide_7.0.0.md)
 
 ## Getting Started
 
@@ -92,4 +92,4 @@ Your site will be available at: `https://YOUR_USERNAME.github.io/REPOSITORY_NAME
 
 ---
 
-**Ready to publish your own documentation?** Check out the [GitHub Pages setup guide](../GITHUB_PAGES_SETUP.md) in this repository!
+**Ready to publish your own documentation?** Check out the [GitHub Pages setup guide](https://github.com/YOUR_USERNAME/nautical_systems/blob/main/GITHUB_PAGES_SETUP.md) in this repository!

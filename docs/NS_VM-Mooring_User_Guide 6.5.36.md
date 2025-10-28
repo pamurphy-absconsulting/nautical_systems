@@ -11,6 +11,8 @@ tags:
   - abs-wavesight
 ---
 
+[← Back to Home](index.md)
+
 **Nautical Systems**
 
 **Voyage Manager -- Mooring**

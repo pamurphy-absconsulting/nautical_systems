@@ -13,6 +13,8 @@ tags:
   - enterprise
 ---
 
+[← Back to Home](index.md)
+
 **Nautical Systems
 Azure Cloud Installation Guide**
 
