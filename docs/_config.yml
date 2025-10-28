@@ -1,2 +1,11 @@
-theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs
+
+title: Nautical Systems Documentation
+description: Documentation for Nautical Systems 7.0
+
+# Enable search
+search_enabled: true
+
+# Enable TOC on right side
+nav_enabled: true
 

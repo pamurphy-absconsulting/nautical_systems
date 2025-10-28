@@ -1,19 +1,10 @@
 ---
-tags:
-  - documentation
-  - installation-guide
-  - azure
-  - cloud
-  - mysql
-  - database
-  - nautical-systems
-  - version-7.0.0
-  - abs-wavesight
-  - azureflex
-  - enterprise
+layout: default
+title: Azure Cloud Installation Guide
+nav_order: 3
 ---
 
-[← Back to Home](index.md)
+[← Back to Home](index.html)
 
 **Nautical Systems
 Azure Cloud Installation Guide**

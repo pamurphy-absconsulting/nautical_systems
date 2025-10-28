@@ -1,19 +1,10 @@
 ---
-tags:
-  - documentation
-  - release-notes
-  - nautical-systems
-  - version-7.0.0
-  - abs-wavesight
-  - september-2025
-  - new-features
-  - enhancements
-  - bug-fixes
-  - maritime
-  - software
+layout: default
+title: Release Notes 7.0
+nav_order: 2
 ---
 
-[← Back to Home](index.md)
+[← Back to Home](index.html)
 
 **Nautical Systems
 Release Notes**

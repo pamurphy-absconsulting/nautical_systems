@@ -1,17 +1,10 @@
 ---
-tags:
-  - documentation
-  - user-guide
-  - nautical-systems
-  - voyage-manager
-  - mooring
-  - maritime
-  - software
-  - version-6.5.36
-  - abs-wavesight
+layout: default
+title: VM-Mooring User Guide
+nav_order: 4
 ---
 
-[← Back to Home](index.md)
+[← Back to Home](index.html)
 
 **Nautical Systems**
 

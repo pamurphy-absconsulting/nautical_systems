@@ -1,19 +1,10 @@
 ---
-tags:
-  - documentation
-  - reference-guide
-  - work-order
-  - import
-  - xml
-  - nautical-systems
-  - version-7.0.0
-  - abs-wavesight
-  - technical
-  - enterprise
-  - september-2025
+layout: default
+title: Work Order Import Reference Guide
+nav_order: 5
 ---
 
-[← Back to Home](index.md)
+[← Back to Home](index.html)
 
 # Nautical Systems
 
