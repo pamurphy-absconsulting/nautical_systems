@@ -2,7 +2,6 @@
 layout: default
 title: Work Order Import Reference Guide
 nav_order: 5
-has_toc: true
 ---
 
 [← Back to Home](index.html)
@@ -14,6 +13,12 @@ has_toc: true
 Reference Guide
 
 September 2025
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 # Introduction
 

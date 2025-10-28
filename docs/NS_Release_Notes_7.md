@@ -2,7 +2,6 @@
 layout: default
 title: Release Notes 7.0
 nav_order: 2
-has_toc: true
 ---
 
 [← Back to Home](index.html)
@@ -11,6 +10,12 @@ has_toc: true
 Release Notes**
 
 Version 7.0.0 \| September 2025
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 # Introduction
 

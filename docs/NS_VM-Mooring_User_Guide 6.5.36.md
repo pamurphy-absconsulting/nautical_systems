@@ -2,7 +2,6 @@
 layout: default
 title: VM-Mooring User Guide
 nav_order: 4
-has_toc: true
 ---
 
 [← Back to Home](index.html)
@@ -14,6 +13,12 @@ has_toc: true
 **User Guide**
 
 | Version 6.5.36 | April 2025 |
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 # Revision History
 

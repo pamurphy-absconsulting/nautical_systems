@@ -2,7 +2,6 @@
 layout: default
 title: Azure Cloud Installation Guide
 nav_order: 3
-has_toc: true
 ---
 
 [← Back to Home](index.html)
@@ -11,6 +10,12 @@ has_toc: true
 Azure Cloud Installation Guide**
 
 Version 7.0.0 \| September 2025
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 # Introduction
 
