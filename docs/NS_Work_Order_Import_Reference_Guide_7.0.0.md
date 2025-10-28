@@ -1,24 +1,12 @@
 ---
-layout: default
 title: Work Order Import Reference Guide
-nav_order: 5
 ---
 
 [← Back to Home](index.html)
 
-# Nautical Systems
-
-## Work Order XML Import
-
-Reference Guide
+# Nautical Systems - Work Order XML Import Reference Guide
 
 September 2025
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 # Introduction
 

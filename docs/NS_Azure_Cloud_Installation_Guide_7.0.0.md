@@ -1,21 +1,12 @@
 ---
-layout: default
 title: Azure Cloud Installation Guide
-nav_order: 3
 ---
 
 [← Back to Home](index.html)
 
-**Nautical Systems
-Azure Cloud Installation Guide**
+# Nautical Systems Azure Cloud Installation Guide
 
-Version 7.0.0 \| September 2025
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+Version 7.0.0 | September 2025
 
 # Introduction
 

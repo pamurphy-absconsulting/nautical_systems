@@ -1,24 +1,12 @@
 ---
-layout: default
 title: VM-Mooring User Guide
-nav_order: 4
 ---
 
 [← Back to Home](index.html)
 
-**Nautical Systems**
+# Nautical Systems - Voyage Manager Mooring User Guide
 
-**Voyage Manager -- Mooring**
-
-**User Guide**
-
-| Version 6.5.36 | April 2025 |
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+Version 6.5.36 | April 2025
 
 # Revision History
 
